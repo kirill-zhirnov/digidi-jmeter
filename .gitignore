@@ -4,3 +4,4 @@ docker-remove-all.sh
 **/*.jtl
 **/*.log
 .idea/
+**/*.mp4
