@@ -158,8 +158,6 @@
             <boolProp name="FileSaver.successonly">true</boolProp>
             <boolProp name="FileSaver.skipsuffix">false</boolProp>
             <boolProp name="FileSaver.skipautonumber">false</boolProp>
-            <boolProp name="FileSaver.addTimstamp">true</boolProp>
-            <stringProp name="FileSaver.numberPadLen">1</stringProp>
           </ResultSaver>
           <hashTree/>
         </hashTree>
@@ -210,8 +208,6 @@
             <boolProp name="FileSaver.successonly">true</boolProp>
             <boolProp name="FileSaver.skipsuffix">false</boolProp>
             <boolProp name="FileSaver.skipautonumber">false</boolProp>
-            <boolProp name="FileSaver.addTimstamp">true</boolProp>
-            <stringProp name="FileSaver.numberPadLen">2</stringProp>
           </ResultSaver>
           <hashTree/>
         </hashTree>
